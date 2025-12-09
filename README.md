@@ -3,13 +3,6 @@
 
 ---
 
-# 📬 Contact
-If you want to discuss a project or dashboard idea, feel free to reach out through email, GitHub or LinkedIn.
-**Email:** sr.crisse@gmail.com  
-**LinkedIn:** www.linkedin.com/in/sam-crissey-064777241  
-
----
-
 ## 👋 Welcome
 This portfolio showcases analytical systems designed to solve real operational problems for fictional companies, reflecting business-level thinking, not just chart building — connecting decisions, operations, and risk.
 
