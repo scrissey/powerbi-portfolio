@@ -35,7 +35,7 @@ Provides real-time tracking of storms, geospatial hazard mapping, port vulnerabi
 
 ![Triton Screenshot](storm.png)
 
-🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiMDlhNzRjZmQtYTNiNC00ZjgwLTgwOWUtODU2NDFjYmQzNjJlIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9" frameborder="0" allowFullScreen="true"></iframe>
+🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiMDlhNzRjZmQtYTNiNC00ZjgwLTgwOWUtODU2NDFjYmQzNjJlIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
 ---
 
@@ -46,7 +46,7 @@ Tracks inventory flow, lead times, profit, OTIF performance, customer exposure, 
 
 ![NorthStar Screenshot](supply.png)
 
-🔗 **Live Version:** *(insert Power BI link here)*
+🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNGMxMjc4OTUtMTYwYi00ZWRlLTkxNzEtNGFlZTI4NzQxYzNmIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
 ---
 
@@ -57,8 +57,7 @@ Measures operational efficiency gained from automation. Includes bot reliability
 
 ![Helix Screenshot](automation.png)
 
-🔗 **Live Version:** *(insert Power BI link here)*
-
+🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDA5MmIxZGUtOGIxYi00M2E3LTlmN2QtMmI3YWU3MWFjNGEwIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 ---
 
 ## 4) 🏥 Aurelia Medical Network  
@@ -68,8 +67,7 @@ Forecasts overtime pressure, burnout, RN/patient ratios, shortage risk, certific
 
 ![Aurelia Screenshot](hospital.png)
 
-🔗 **Live Version:** *(insert Power BI link here)*
-
+🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiN2U0NDk4MTYtM2JkNC00ZDUzLTg1MDMtNTJmNTg0ZWZjNWZhIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 ---
 
 ## 5) 🐺 Alpine Sentinel Institute  
@@ -79,8 +77,7 @@ Tracks territory movement, risk of human proximity, population dynamics, climate
 
 ![Alpine Screenshot](wildlife.png)
 
-🔗 **Live Version:** *(insert Power BI link here)*
-
+🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDQxM2E1YzUtNzRjZC00MmYxLTgzYjgtMGE0ODdmZjY0MGRkIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 ---
 
 # 🛠️ Technical Capabilities
@@ -106,7 +103,7 @@ I am open to:
 ---
 
 # 📬 Contact
-**Email:** *(put your email)*  
-**LinkedIn:** *(put your LinkedIn)*  
+**Email:** sr.crisse@gmail.com  
+**LinkedIn:** www.linkedin.com/in/sam-crissey-064777241  
 
 ---
