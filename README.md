@@ -116,4 +116,11 @@ I can help by building dashboards that:
 - Improving and cleaning existing reports  
 - Connecting data from Excel, SharePoint, SAP, SQL  
 - Automating manual reporting processes  
-- "One-off" dashboards for specific needs  
+- "One-off" dashboards for specific needs
+
+---
+
+# 📬 Contact
+If you want to discuss a project or dashboard idea, feel free to reach out through email, GitHub or LinkedIn.
+**Email:** sr.crisse@gmail.com  
+**LinkedIn:** www.linkedin.com/in/sam-crissey-064777241  
