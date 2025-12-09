@@ -81,7 +81,7 @@ Track animal movement, identify seasonal patterns, and highlight interaction ris
 
 ---
 
-# 📈 These solutions include:
+## 📈 These solutions include:
 
 - Power BI data modeling with star schemas  
 - DAX modeling for metrics, scoring, and forecasting  
@@ -92,7 +92,7 @@ Track animal movement, identify seasonal patterns, and highlight interaction ris
 
 ---
 
-# 🤝 Consulting & Collaboration
+## 🤝 Consulting & Collaboration
 
 I help teams turn messy data into clean, easy-to-use dashboards.
 
@@ -111,7 +111,7 @@ I can help by building dashboards that:
 
 ---
 
-# 🔍 Project Types
+## 🔍 Project Types
 - Power BI dashboards built from scratch  
 - Improving and cleaning existing reports  
 - Connecting data from Excel, SharePoint, SAP, SQL  
@@ -120,7 +120,7 @@ I can help by building dashboards that:
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 If you want to discuss a project or dashboard idea, feel free to reach out through email, GitHub or LinkedIn.
 **Email:** sr.crisse@gmail.com  
 **LinkedIn:** www.linkedin.com/in/sam-crissey-064777241  
