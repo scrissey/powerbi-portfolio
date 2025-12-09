@@ -1,7 +1,5 @@
-# Advanced Business Intelligence Portfolio  
+# Advanced Business Intelligence Portfolio - Sam Crissey
 ### Developed in Microsoft Power BI | Multimodal Analytics
-
-
 
 ## 👋 Welcome
 This portfolio demonstrates advanced data modeling, predictive analytics, geospatial intelligence, risk scoring, and operational performance architectures.
