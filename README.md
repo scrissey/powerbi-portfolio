@@ -31,7 +31,7 @@ Each report goes far beyond “typical dashboards” using mock data — these s
 
 Identify and quantify coastal storm risk, economic exposure, and port vulnerability.
 
-![Triton Screenshot](storm.png)
+![Triton Screenshot](screenshots/storm.png)
 
 🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiMDlhNzRjZmQtYTNiNC00ZjgwLTgwOWUtODU2NDFjYmQzNjJlIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
@@ -42,7 +42,7 @@ Identify and quantify coastal storm risk, economic exposure, and port vulnerabil
 
 Provide visibility into supply reliability, lead times, OTIF, and profitability.
 
-![NorthStar Screenshot](supply.png)
+![NorthStar Screenshot](screenshots/supply.png)
 
 🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNGMxMjc4OTUtMTYwYi00ZWRlLTkxNzEtNGFlZTI4NzQxYzNmIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
@@ -53,7 +53,7 @@ Provide visibility into supply reliability, lead times, OTIF, and profitability.
 
 Quantify automation impact, reduce manual work, and guide prioritization.
 
-![Helix Screenshot](automation.png)
+![Helix Screenshot](screenshots/automation.png)
 
 🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDA5MmIxZGUtOGIxYi00M2E3LTlmN2QtMmI3YWU3MWFjNGEwIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
@@ -64,7 +64,7 @@ Quantify automation impact, reduce manual work, and guide prioritization.
 
 Support staffing decisions, burnout mitigation, and patient safety readiness.
 
-![Aurelia Screenshot](hospital.png)
+![Aurelia Screenshot](screenshots/hospital.png)
 
 🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiN2U0NDk4MTYtM2JkNC00ZDUzLTg1MDMtNTJmNTg0ZWZjNWZhIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
@@ -75,7 +75,7 @@ Support staffing decisions, burnout mitigation, and patient safety readiness.
 
 Track animal movement, identify seasonal patterns, and highlight interaction risk.
 
-![Alpine Screenshot](wildlife.png)
+![Alpine Screenshot](screenshots/wildlife.png)
 
 🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDQxM2E1YzUtNzRjZC00MmYxLTgzYjgtMGE0ODdmZjY0MGRkIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
