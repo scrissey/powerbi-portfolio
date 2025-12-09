@@ -1,7 +1,8 @@
 # Advanced Business Intelligence Portfolio  
 ### Developed in Microsoft Power BI | Multimodal Analytics
 
-## This portfolio demonstrates advanced data modeling, predictive analytics, geospatial intelligence, risk scoring, and operational performance architectures.
+## 👋 Welcome
+This portfolio demonstrates advanced data modeling, predictive analytics, geospatial intelligence, risk scoring, and operational performance architectures.
 
 Each report goes far beyond “typical dashboards” — these simulate real-world systems used by:
 - Analysts & Enterprise BI Teams  
