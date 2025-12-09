@@ -2,9 +2,9 @@
 ### Microsoft Power BI | Multimodal Analytics
 
 ## 👋 Welcome
-This portfolio showcases analytical systems designed to solve real operational problems, reflecting business-level thinking, not just chart building — connecting decisions, operations, and risk.
+This portfolio showcases analytical systems designed to solve real operational problems for fictional companies, reflecting business-level thinking, not just chart building — connecting decisions, operations, and risk.
 
-Each report goes far beyond “typical dashboards” — these simulate real-world systems used by:
+Each report goes far beyond “typical dashboards” using mock data — these simulate real-world systems used by:
 - Analysts & Enterprise BI Teams  
 - Healthcare Workforce Directors  
 - Environmental and Safety Risk Analysts 
