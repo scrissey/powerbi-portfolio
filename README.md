@@ -97,17 +97,35 @@ Tracks territory movement, risk of human proximity, population dynamics, climate
 ---
 
 # 🤝 Consulting & Collaboration
-If your organization is looking for help with:
-- BI contracting work
-- Analytics consulting
-- Automation modeling
-- Storm & resilience risk modeling
-- Clinical workforce optimization
-- Supply chain simulation
+
+I help teams turn messy data into clean, easy-to-use dashboards.
+
+If your organization struggles with:
+- Reports that take too long to build  
+- Decisions being made from spreadsheets  
+- Manually copying/pasting numbers every week  
+- Not having clear insight into performance  
+- No unified "single source of truth"
+
+I can help by building dashboards that:
+- Show key metrics in one place  
+- Update automatically from your data sources  
+- Reduce manual work and reporting time  
+- Help decision makers understand opportunities and risks  
+
+---
+
+# Project Types
+- Power BI dashboards built from scratch  
+- Improving and cleaning existing reports  
+- Connecting data from Excel, SharePoint, SAP, SQL  
+- Automating manual reporting processes  
+- "One-off" dashboards for specific needs  
 
 ---
 
 # 📬 Contact
+If you want to discuss a project or dashboard idea, feel free to reach out through email, GitHub or LinkedIn.
 **Email:** sr.crisse@gmail.com  
 **LinkedIn:** www.linkedin.com/in/sam-crissey-064777241  
 
