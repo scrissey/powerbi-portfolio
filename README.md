@@ -3,7 +3,7 @@
 
 ---
 
-## 👋 Welcome
+## Hi!
 This portfolio showcases analytical systems designed to solve real operational problems for fictional companies, reflecting business-level thinking, not just chart building — connecting decisions, operations, and risk.
 
 Each report goes far beyond “typical dashboards” using mock data — these simulate real-world systems used by:
@@ -15,7 +15,7 @@ Each report goes far beyond “typical dashboards” using mock data — these s
 
 ---
 
-## ❓ What This Portfolio Demonstrates
+## What This Portfolio Demonstrates
 - Predictive analytics & forecasting
 - Risk quantification & exposure modeling
 - Geospatial analysis (lat/long mapping)
@@ -26,62 +26,62 @@ Each report goes far beyond “typical dashboards” using mock data — these s
 
 ---
 
-## 1) 🌊 Triton Coastal Risk Observatory  
+## 1) Triton Coastal Risk Observatory  
 ### **Global Ocean Storms & Economic Risk Intelligence System**
 
 Identify and quantify coastal storm risk, economic exposure, and port vulnerability.
 
 ![Triton Screenshot](screenshots/storm.png)
 
-🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiMDlhNzRjZmQtYTNiNC00ZjgwLTgwOWUtODU2NDFjYmQzNjJlIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+ **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiMDlhNzRjZmQtYTNiNC00ZjgwLTgwOWUtODU2NDFjYmQzNjJlIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
 ---
 
-## 2) 🚚 NorthStar Supply & Logistics  
+## 2) NorthStar Supply & Logistics  
 ### **Global Supply Chain Performance Overview**
 
 Provide visibility into supply reliability, lead times, OTIF, and profitability.
 
 ![NorthStar Screenshot](screenshots/supply.png)
 
-🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNGMxMjc4OTUtMTYwYi00ZWRlLTkxNzEtNGFlZTI4NzQxYzNmIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+ **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNGMxMjc4OTUtMTYwYi00ZWRlLTkxNzEtNGFlZTI4NzQxYzNmIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
 ---
 
-## 3) 🤖 Helix Systems Global  
+## 3) Helix Systems Global  
 ### **Automation ROI & Manual Work Reduction Dashboard**
 
 Quantify automation impact, reduce manual work, and guide prioritization.
 
 ![Helix Screenshot](screenshots/automation.png)
 
-🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDA5MmIxZGUtOGIxYi00M2E3LTlmN2QtMmI3YWU3MWFjNGEwIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+ **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDA5MmIxZGUtOGIxYi00M2E3LTlmN2QtMmI3YWU3MWFjNGEwIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
 ---
 
-## 4) 🏥 Aurelia Medical Network  
+## 4) Aurelia Medical Network  
 ### **Hospital Workforce Intelligence System**
 
 Support staffing decisions, burnout mitigation, and patient safety readiness.
 
 ![Aurelia Screenshot](screenshots/hospital.png)
 
-🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiN2U0NDk4MTYtM2JkNC00ZDUzLTg1MDMtNTJmNTg0ZWZjNWZhIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+ **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiN2U0NDk4MTYtM2JkNC00ZDUzLTg1MDMtNTJmNTg0ZWZjNWZhIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
 ---
 
-## 5) 🐺 Alpine Sentinel Institute  
+## 5) Alpine Sentinel Institute  
 ### **Wolf & Bear Migration: Wildlife Risk Intelligence**
 
 Track animal movement, identify seasonal patterns, and highlight interaction risk.
 
 ![Alpine Screenshot](screenshots/wildlife.png)
 
-🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDQxM2E1YzUtNzRjZC00MmYxLTgzYjgtMGE0ODdmZjY0MGRkIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+ **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDQxM2E1YzUtNzRjZC00MmYxLTgzYjgtMGE0ODdmZjY0MGRkIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
 
 ---
 
-## 📈 These solutions include:
+## These solutions include:
 
 - Power BI data modeling with star schemas  
 - DAX modeling for metrics, scoring, and forecasting  
@@ -92,7 +92,7 @@ Track animal movement, identify seasonal patterns, and highlight interaction ris
 
 ---
 
-## 🤝 Consulting & Collaboration
+## Consulting & Collaboration
 
 I help teams turn messy data into clean, easy-to-use dashboards.
 
@@ -111,7 +111,7 @@ I can help by building dashboards that:
 
 ---
 
-## 🔍 Project Types
+## Project Types
 - Power BI dashboards built from scratch  
 - Improving and cleaning existing reports  
 - Connecting data from Excel, SharePoint, SAP, SQL  
@@ -120,7 +120,7 @@ I can help by building dashboards that:
 
 ---
 
-## 📬 Contact
+## Contact
 If you want to discuss a project or dashboard idea, feel free to reach out through email, GitHub or LinkedIn.
 
 -**Email:** sr.crisse@gmail.com  
